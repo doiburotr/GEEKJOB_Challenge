@@ -1,0 +1,24 @@
+エディション　windows 8.1
+
+システム
+　　プロセッサ　Intel(R) Celeron(R)CPU 1000M @ 1.80GH
+　　実装メモリ(RAM): 4.00GB
+   システムの種類: ６４ビット　オペレーティングシステム、x64 ベース　プロセッサ
+ペンとタッチ: このディスプレイでは、ペン入力とタッチ入力は利用できません
+
+以下はCPU-Zを利用してわかったスペック
+
+
+CPUについて
+clocks core speed 1197.14MHz ～1795.71MHz
+cores 2 Threads 2 
+
+Mainboardについて
+Mother boardは
+
+ManufactureはLENOVOでした。Modelは Lenovo G580でした。 BIOSは、 Brandは LENOVOでversionは62CN91WWでした。
+
+Memoryについて 
+TypeはDDR3です。 Sizeは4GBytesでした。 ChannelはSingleでした。
+
+
